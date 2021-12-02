@@ -1,10 +1,2 @@
 productkey  modelname                                          color
-8         Mountain-500                                       Black
-9         Mountain-500                                       Black
-0         Mountain-500                                       Black
-1         LL Bottom Bracket                                  NA
-2         ML Bottom Bracket                                  NA
-3         HL Bottom Bracket                                  NA
-4         Road-750                                           Black
-5         Road-750                                           Black
-6         Road-750                                           Black
+
