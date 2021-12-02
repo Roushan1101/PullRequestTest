@@ -1,3 +1,4 @@
 productkey  modelname                                          color
 
 01          BENZ												RED
+02          Ferrari                                             GREEN
