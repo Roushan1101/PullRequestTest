@@ -1,7 +1,4 @@
 productkey  modelname                                          color
-
-
-
 598         Mountain-500                                       Black
 599         Mountain-500                                       Black
 600         Mountain-500                                       Black
